@@ -11,3 +11,7 @@ Markdown practice!
 ``` javascript
 console.log("Hello, World!");
 ```
+
+- [ ] Cyber Security
+- [x] AI/ML
+- [ ] Blockchain
